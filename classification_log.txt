@@ -1,0 +1,6 @@
+Classified as: Dog
+Classified as: Cat
+Classified as: Unknown Object
+Classified as: bird
+Classified as: pizza
+Classified as: snake
